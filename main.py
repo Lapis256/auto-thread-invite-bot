@@ -1,7 +1,7 @@
 from os import environ
 
 from discord import Client, AllowedMentions, Intents, MemberCacheFlags
-from discord.utils import get, find
+from discord.utils import find
 from dotenv import load_dotenv
 import uvloop
 
