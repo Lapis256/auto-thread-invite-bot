@@ -2,8 +2,8 @@
 
 ## 動かし方
 ### 必要な物
-Postgresql 13
-Python 3.8 以上
+- Postgresql 13
+- Python 3.8 以上
 
 ### 事前準備
 `env.sample`を参考にして`.env`を作成してください
